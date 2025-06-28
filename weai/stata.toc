@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p weai Computes different versions of the Women's Empowerment in Agricultural Index (WEAI) Use weai With STATA 19

@@ -1,0 +1,5 @@
+D 'weai': Computes different versions of the Women's Empowerment in Agricultural Index (WEAI) Use weai With STATA 19
+D
+F weai.ado
+F weai.sthlp
+F scheme-weai.scheme
