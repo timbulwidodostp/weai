@@ -1,6 +1,8 @@
 # weai
 Computes different versions of the Women's Empowerment in Agricultural Index (WEAI) Use weai With STATA 19
 
+https://www.youtube.com/watch?v=3Fggb9pwyLI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
